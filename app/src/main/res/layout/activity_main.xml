@@ -34,6 +34,7 @@
             android:text="Calculate"
             android:id="@+id/btn_calculate" />
     </LinearLayout>
+
     <LinearLayout android:orientation="horizontal"
         android:id="@+id/layout2"
         android:layout_width="match_parent"
@@ -45,7 +46,9 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:id="@+id/txt3" />
-    </LinearLayout> <LinearLayout
+    </LinearLayout>
+
+    <LinearLayout
     android:orientation="horizontal"
     android:id="@+id/layout3"
     android:layout_width="match_parent"
